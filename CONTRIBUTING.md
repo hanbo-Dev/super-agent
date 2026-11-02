@@ -15,6 +15,8 @@
 
 ## 三条守则
 
-1. **起点收窄**：把需求收窄到明确、可检查的起点，避免一开始就交出一张没有边界的任务清单。
-2. **为更少噪音而调**：以更少的噪音为目标调整指令和流程，避免重复、冗长的评论与不必要的改动。
-3. **它说的话你负责**：代理的产出需要人来审阅并承担责任，不能把它的说法当成无需验证的结论。
+三条守则按团队原话引用：
+
+1. **起点收窄（Start narrow）**：“a short allowlist and proactive work only recorded, not a narrower request.”
+2. **为更少噪音而调（Tune for less noise）**：“shorten the prompts or pause the agent, never add messages to explain the noise.”
+3. **它说的话你负责（Own what it says）**：“every message the agent sends costs colleagues' attention and belongs to the operator.”
